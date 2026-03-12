@@ -1,0 +1,817 @@
+{
+  "deck_name": "Visualizm-powerpoint",
+  "source_pptx": "/Users/ben/Documents/Code/PowerPointAgent/ppt_pipeline_runner/input_four/Visualizm-powerpoint.pptx",
+  "template_pptx": "/Users/ben/Documents/Code/PowerPointAgent/ppt_pipeline_runner/output_four/decks/Visualizm_powerpoint/template_deck.pptx",
+  "slides": [
+    {
+      "template_id": "Visualizm_powerpoint-S01",
+      "source_slide_number": 1,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideImage}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S02",
+      "source_slide_number": 2,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideImage}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S03",
+      "source_slide_number": 3,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideImage}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S04",
+      "source_slide_number": 4,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideImage}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S05",
+      "source_slide_number": 5,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S06",
+      "source_slide_number": 6,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideImage}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S07",
+      "source_slide_number": 7,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S08",
+      "source_slide_number": 8,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S09",
+      "source_slide_number": 9,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S10",
+      "source_slide_number": 10,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S11",
+      "source_slide_number": 11,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S12",
+      "source_slide_number": 12,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSectionLabel}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S13",
+      "source_slide_number": 13,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingImage}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S14",
+      "source_slide_number": 14,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S15",
+      "source_slide_number": 15,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S16",
+      "source_slide_number": 16,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S17",
+      "source_slide_number": 17,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S18",
+      "source_slide_number": 18,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideImage}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S19",
+      "source_slide_number": 19,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S20",
+      "source_slide_number": 20,
+      "values": {
+        "{SlideStatistic}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideStatistic}",
+        "{SlideSupportingContent}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S21",
+      "source_slide_number": 21,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideStatistic}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideStatistic}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S22",
+      "source_slide_number": 22,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S23",
+      "source_slide_number": 23,
+      "values": {
+        "{SlideImage}": "",
+        "{SlideMainExplanation}": "",
+        "{SlideStatistic}": "",
+        "{SlideCallout}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingImage}": ""
+      },
+      "required": [
+        "{SlideImage}",
+        "{SlideMainExplanation}"
+      ],
+      "optional": [
+        "{SlideStatistic}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingImage}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S24",
+      "source_slide_number": 24,
+      "values": {
+        "{SlideSupportingImage}": "",
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingImage}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S25",
+      "source_slide_number": 25,
+      "values": {
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideStatistic}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingImage}",
+        "{SlideStatistic}",
+        "{SlideSupportingContent}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S26",
+      "source_slide_number": 26,
+      "values": {
+        "{SlideImage}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingImage}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingImage}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S27",
+      "source_slide_number": 27,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideStatistic}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": ""
+      },
+      "required": [
+        "{SlideSectionLabel}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideStatistic}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S28",
+      "source_slide_number": 28,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingImage}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S29",
+      "source_slide_number": 29,
+      "values": {
+        "{SlideMainExplanation}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}"
+      ],
+      "optional": []
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S30",
+      "source_slide_number": 30,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideStatistic}": "",
+        "{SlideCallout}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideStatistic}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S31",
+      "source_slide_number": 31,
+      "values": {
+        "{SlideIcon}": "",
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideStatistic}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideIcon}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideStatistic}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S32",
+      "source_slide_number": 32,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideStatistic}": "",
+        "{SlideReference}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideImage}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideStatistic}",
+        "{SlideReference}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S33",
+      "source_slide_number": 33,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideImage}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}"
+      ]
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S34",
+      "source_slide_number": 34,
+      "values": {},
+      "required": [],
+      "optional": []
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S35",
+      "source_slide_number": 35,
+      "values": {},
+      "required": [],
+      "optional": []
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S36",
+      "source_slide_number": 36,
+      "values": {},
+      "required": [],
+      "optional": []
+    }
+  ]
+}

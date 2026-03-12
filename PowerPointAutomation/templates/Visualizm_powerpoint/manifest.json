@@ -1,0 +1,1003 @@
+{
+  "deck_name": "Visualizm-powerpoint",
+  "source_pptx": "/Users/ben/Documents/Code/PowerPointAgent/ppt_pipeline_runner/input_four/Visualizm-powerpoint.pptx",
+  "slide_count": 36,
+  "slide_size_emu": {
+    "cx": 12192000,
+    "cy": 6858000
+  },
+  "screenshot_status": "skipped",
+  "template_pptx": "/Users/ben/Documents/Code/PowerPointAgent/ppt_pipeline_runner/output_four/decks/Visualizm_powerpoint/template_deck.pptx",
+  "slides": [
+    {
+      "template_id": "Visualizm_powerpoint-S01",
+      "slide_number": 1,
+      "title": "creative",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideImage}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-01.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S02",
+      "slide_number": 2,
+      "title": "PERFECTION IS NO SMALL THING, BUT IT IS MADE UP OF SMALL THINGS",
+      "category": "Quote / Testimonial",
+      "purpose": "Anchor interpretation with an external quote/perspective.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideImage}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-02.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S03",
+      "slide_number": 3,
+      "title": "IT'S A VISUAL WORLD & PEOPLE RESPOND TO VISUALS",
+      "category": "Quote / Testimonial",
+      "purpose": "Anchor interpretation with an external quote/perspective.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideImage}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-03.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S04",
+      "slide_number": 4,
+      "title": "WHEN ALL THINK ALIKE, THEN NO ONE IS THINKING",
+      "category": "Quote / Testimonial",
+      "purpose": "Anchor interpretation with an external quote/perspective.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideImage}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-04.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S05",
+      "slide_number": 5,
+      "title": "EVERY NEW IDEA IS JUST A MASHUP OR A REMIX OF ONE OR MORE PREVIOUS IDEAS",
+      "category": "Big Idea / Concept",
+      "purpose": "Introduce a central concept with concise framing.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-05.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S06",
+      "slide_number": 6,
+      "title": "MY HUMOR IS MY CREATIVITY, AND MY SKEPTICISM IS A GIFT",
+      "category": "Big Idea / Concept",
+      "purpose": "Introduce a central concept with concise framing.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideImage}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-06.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S07",
+      "slide_number": 7,
+      "title": "POP Art! Mindblowon",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-07.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S08",
+      "slide_number": 8,
+      "title": "Vocibus mediocrem ex vis. Novum errem pertinacia sita madrid Verear fabulas detracto qui curs raece similique Venezuela milan mnesarch voluptatibus interpretaris pro eu, probo ius ubiq sileun versace in definitionem, has in agam meliore delicata. Sed eros aliquid Inai convenire delenit. Vim europe milano ponderum maldives incorrupte graeci vocibus ex phaedrum pertinac sea errem singulis no est. Dolore nostrum lorem ipsum dolor sit amet.",
+      "category": "Big Idea / Concept",
+      "purpose": "Introduce a central concept with concise framing.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-08.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S09",
+      "slide_number": 9,
+      "title": "ART IS NOT A HANDICRAFT. IT IS THE TRANSMISSION OF FEELING THE ARTIST HAS EXPERIENCED",
+      "category": "Big Idea / Concept",
+      "purpose": "Introduce a central concept with concise framing.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-09.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S10",
+      "slide_number": 10,
+      "title": "ART DIRECTOR",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent4}",
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-10.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S11",
+      "slide_number": 11,
+      "title": "TALENT WINS GAMES, BUT TEAMWORK AND INTELLIGENCE WIN CHAMPIONSHIPS",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-11.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S12",
+      "slide_number": 12,
+      "title": "THE CREW",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSectionLabel}",
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSectionLabel}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-12.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S13",
+      "slide_number": 13,
+      "title": "ART DIRECTOR",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideImage}",
+        "{SlideSupportingImage}"
+      ],
+      "required_placeholders": [
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingImage}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-13.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S14",
+      "slide_number": 14,
+      "title": "OUR SERVICES",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideImage}"
+      ],
+      "required_placeholders": [
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-14.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S15",
+      "slide_number": 15,
+      "title": "THE STRENGTH OF BRAND LOYALTY BEGINS WITH HOW YOUR PRODUCT MAKES PEOPLE FEEL",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-15.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S16",
+      "slide_number": 16,
+      "title": "THE SERVICE ONE",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideImage}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-16.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S17",
+      "slide_number": 17,
+      "title": "MARKETING IS WHAT YOU DO WHEN YOUR PRODUCT IS NO GOOD",
+      "category": "Quote / Testimonial",
+      "purpose": "Anchor interpretation with an external quote/perspective.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-17.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S18",
+      "slide_number": 18,
+      "title": "Pop Art Presentation Template",
+      "category": "Big Idea / Concept",
+      "purpose": "Introduce a central concept with concise framing.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideImage}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-18.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S19",
+      "slide_number": 19,
+      "title": "OUR PORTFOLIO",
+      "category": "Cover / Title",
+      "purpose": "Open a section or task with clear framing (OUR PORTFOLIO).",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-19.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S20",
+      "slide_number": 20,
+      "title": "03",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideStatistic}",
+        "{SlideSupportingContent}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ],
+      "required_placeholders": [
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideStatistic}",
+        "{SlideSupportingContent}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-20.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S21",
+      "slide_number": 21,
+      "title": "I'M VERY CONFIDENT IN HOW I PROJECT MY PERSONALITY",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideStatistic}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideStatistic}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-21.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S22",
+      "slide_number": 22,
+      "title": "PORTFOLIO ONE",
+      "category": "Quote / Testimonial",
+      "purpose": "Anchor interpretation with an external quote/perspective.",
+      "placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ],
+      "required_placeholders": [
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-22.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S23",
+      "slide_number": 23,
+      "title": "I'M VERY CONFIDENT IN HOW I PROJECT MY PERSONALITY",
+      "category": "Callout / Highlight",
+      "purpose": "Focus attention on selected references with annotations.",
+      "placeholders": [
+        "{SlideImage}",
+        "{SlideMainExplanation}",
+        "{SlideStatistic}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingImage}"
+      ],
+      "required_placeholders": [
+        "{SlideImage}",
+        "{SlideMainExplanation}"
+      ],
+      "optional_placeholders": [
+        "{SlideStatistic}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingImage}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-23.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S24",
+      "slide_number": 24,
+      "title": "VISUALIZM STUDIO",
+      "category": "Image-Led",
+      "purpose": "Use visuals as the primary communication vehicle.",
+      "placeholders": [
+        "{SlideSupportingImage}",
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingImage}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-24.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S25",
+      "slide_number": 25,
+      "title": "01. TEXT MOCKUP ONE",
+      "category": "Callout / Highlight",
+      "purpose": "Focus attention on selected references with annotations.",
+      "placeholders": [
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideStatistic}",
+        "{SlideSupportingContent}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "required_placeholders": [
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingImage}",
+        "{SlideStatistic}",
+        "{SlideSupportingContent}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-25.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S26",
+      "slide_number": 26,
+      "title": "WITHOUT HARD WORK, NOTHING GROWS BUT WEEDS",
+      "category": "Quote / Testimonial",
+      "purpose": "Anchor interpretation with an external quote/perspective.",
+      "placeholders": [
+        "{SlideImage}",
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingImage}"
+      ],
+      "required_placeholders": [
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingImage}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-26.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S27",
+      "slide_number": 27,
+      "title": "PRICING TABLES",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideStatistic}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}"
+      ],
+      "required_placeholders": [
+        "{SlideSectionLabel}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideStatistic}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-27.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S28",
+      "slide_number": 28,
+      "title": "ALONE WE CAN DO SO LITTLE, TOGETHER WE CAN DO SO MUCH",
+      "category": "Data / Infographic",
+      "purpose": "Present structured evidence, tables, or quantified comparisons.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideImage}",
+        "{SlideSupportingImage}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingImage}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-28.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S29",
+      "slide_number": 29,
+      "title": "THE STRENGTH OF BRAND LOYALTY BEGINS WITH HOW YOUR PRODUCT MAKES PEOPLE FEEL",
+      "category": "Data / Infographic",
+      "purpose": "Present structured evidence, tables, or quantified comparisons.",
+      "placeholders": [
+        "{SlideMainExplanation}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}"
+      ],
+      "optional_placeholders": [],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-29.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S30",
+      "slide_number": 30,
+      "title": "01. INFOGRAPHIC TEXT",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideStatistic}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideStatistic}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-30.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S31",
+      "slide_number": 31,
+      "title": "03. INFOGRAPHIC TEXT",
+      "category": "Callout / Highlight",
+      "purpose": "Focus attention on selected references with annotations.",
+      "placeholders": [
+        "{SlideIcon}",
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideStatistic}",
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideIcon}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideStatistic}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-31.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S32",
+      "slide_number": 32,
+      "title": "GET IN TOUCH",
+      "category": "Section Divider",
+      "purpose": "Separate content blocks and reset attention before a new concept.",
+      "placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideStatistic}",
+        "{SlideReference}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideImage}"
+      ],
+      "required_placeholders": [
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideStatistic}",
+        "{SlideReference}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-32.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S33",
+      "slide_number": 33,
+      "title": "creative",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideImage}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-33.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S34",
+      "slide_number": 34,
+      "title": "(No explicit text title)",
+      "category": "Big Idea / Concept",
+      "purpose": "Introduce a central concept with concise framing.",
+      "placeholders": [],
+      "required_placeholders": [],
+      "optional_placeholders": [],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-34.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S35",
+      "slide_number": 35,
+      "title": "(No explicit text title)",
+      "category": "Big Idea / Concept",
+      "purpose": "Introduce a central concept with concise framing.",
+      "placeholders": [],
+      "required_placeholders": [],
+      "optional_placeholders": [],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-35.png"
+    },
+    {
+      "template_id": "Visualizm_powerpoint-S36",
+      "slide_number": 36,
+      "title": "(No explicit text title)",
+      "category": "Big Idea / Concept",
+      "purpose": "Introduce a central concept with concise framing.",
+      "placeholders": [],
+      "required_placeholders": [],
+      "optional_placeholders": [],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-36.png"
+    }
+  ]
+}

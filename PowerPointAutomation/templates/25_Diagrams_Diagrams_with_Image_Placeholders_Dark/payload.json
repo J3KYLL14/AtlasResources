@@ -1,0 +1,4091 @@
+{
+  "deck_name": "25.  Diagrams_Diagrams_with_Image_Placeholders_Dark",
+  "source_pptx": "/Users/ben/Documents/Code/PowerPointAgent/ppt_pipeline_runner/input_four/25.  Diagrams_Diagrams_with_Image_Placeholders_Dark.pptx",
+  "template_pptx": "/Users/ben/Documents/Code/PowerPointAgent/ppt_pipeline_runner/output_four/decks/25_Diagrams_Diagrams_with_Image_Placeholders_Dark/template_deck.pptx",
+  "slides": [
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S01",
+      "source_slide_number": 1,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideStatistic}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSectionLabel}",
+        "{SlideStatistic}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S02",
+      "source_slide_number": 2,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideStatistic}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSectionLabel}",
+        "{SlideStatistic}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S03",
+      "source_slide_number": 3,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideStatistic}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSectionLabel}",
+        "{SlideStatistic}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S04",
+      "source_slide_number": 4,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideStatistic}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSectionLabel}",
+        "{SlideStatistic}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S05",
+      "source_slide_number": 5,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideStatistic}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSectionLabel}",
+        "{SlideStatistic}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S06",
+      "source_slide_number": 6,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideStatistic}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSectionLabel}",
+        "{SlideStatistic}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S07",
+      "source_slide_number": 7,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideStatistic}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSectionLabel}",
+        "{SlideStatistic}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S08",
+      "source_slide_number": 8,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideStatistic}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSectionLabel}",
+        "{SlideStatistic}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S09",
+      "source_slide_number": 9,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideStatistic}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSectionLabel}",
+        "{SlideStatistic}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S10",
+      "source_slide_number": 10,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideStatistic}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSectionLabel}",
+        "{SlideStatistic}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S11",
+      "source_slide_number": 11,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideStatistic}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSectionLabel}",
+        "{SlideStatistic}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S12",
+      "source_slide_number": 12,
+      "values": {
+        "{SlideStatistic}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideStatistic}",
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S13",
+      "source_slide_number": 13,
+      "values": {
+        "{SlideStatistic}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideStatistic}",
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S14",
+      "source_slide_number": 14,
+      "values": {
+        "{SlideStatistic}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideStatistic}",
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S15",
+      "source_slide_number": 15,
+      "values": {
+        "{SlideStatistic}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideStatistic}",
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S16",
+      "source_slide_number": 16,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideStatistic}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideStatistic}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S17",
+      "source_slide_number": 17,
+      "values": {
+        "{SlideStatistic}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideStatistic}",
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S18",
+      "source_slide_number": 18,
+      "values": {
+        "{SlideStatistic}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideStatistic}",
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S19",
+      "source_slide_number": 19,
+      "values": {
+        "{SlideStatistic}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideStatistic}",
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S20",
+      "source_slide_number": 20,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S21",
+      "source_slide_number": 21,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S22",
+      "source_slide_number": 22,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S23",
+      "source_slide_number": 23,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S24",
+      "source_slide_number": 24,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S25",
+      "source_slide_number": 25,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S26",
+      "source_slide_number": 26,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S27",
+      "source_slide_number": 27,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S28",
+      "source_slide_number": 28,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S29",
+      "source_slide_number": 29,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S30",
+      "source_slide_number": 30,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S31",
+      "source_slide_number": 31,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S32",
+      "source_slide_number": 32,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S33",
+      "source_slide_number": 33,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S34",
+      "source_slide_number": 34,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S35",
+      "source_slide_number": 35,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S36",
+      "source_slide_number": 36,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S37",
+      "source_slide_number": 37,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S38",
+      "source_slide_number": 38,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S39",
+      "source_slide_number": 39,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S40",
+      "source_slide_number": 40,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S41",
+      "source_slide_number": 41,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S42",
+      "source_slide_number": 42,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S43",
+      "source_slide_number": 43,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S44",
+      "source_slide_number": 44,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S45",
+      "source_slide_number": 45,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S46",
+      "source_slide_number": 46,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S47",
+      "source_slide_number": 47,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S48",
+      "source_slide_number": 48,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S49",
+      "source_slide_number": 49,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S50",
+      "source_slide_number": 50,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S51",
+      "source_slide_number": 51,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S52",
+      "source_slide_number": 52,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S53",
+      "source_slide_number": 53,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S54",
+      "source_slide_number": 54,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S55",
+      "source_slide_number": 55,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S56",
+      "source_slide_number": 56,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S57",
+      "source_slide_number": 57,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S58",
+      "source_slide_number": 58,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S59",
+      "source_slide_number": 59,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S60",
+      "source_slide_number": 60,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S61",
+      "source_slide_number": 61,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S62",
+      "source_slide_number": 62,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S63",
+      "source_slide_number": 63,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S64",
+      "source_slide_number": 64,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S65",
+      "source_slide_number": 65,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S66",
+      "source_slide_number": 66,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S67",
+      "source_slide_number": 67,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S68",
+      "source_slide_number": 68,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S69",
+      "source_slide_number": 69,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S70",
+      "source_slide_number": 70,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S71",
+      "source_slide_number": 71,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S72",
+      "source_slide_number": 72,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S73",
+      "source_slide_number": 73,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S74",
+      "source_slide_number": 74,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S75",
+      "source_slide_number": 75,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S76",
+      "source_slide_number": 76,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S77",
+      "source_slide_number": 77,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S78",
+      "source_slide_number": 78,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S79",
+      "source_slide_number": 79,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S80",
+      "source_slide_number": 80,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S81",
+      "source_slide_number": 81,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S82",
+      "source_slide_number": 82,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S83",
+      "source_slide_number": 83,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S84",
+      "source_slide_number": 84,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideSectionLabel}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S85",
+      "source_slide_number": 85,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideSectionLabel}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S86",
+      "source_slide_number": 86,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideSectionLabel}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S87",
+      "source_slide_number": 87,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideSectionLabel}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S88",
+      "source_slide_number": 88,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideSectionLabel}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S89",
+      "source_slide_number": 89,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideSectionLabel}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S90",
+      "source_slide_number": 90,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideSectionLabel}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S91",
+      "source_slide_number": 91,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideSectionLabel}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S92",
+      "source_slide_number": 92,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideSectionLabel}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S93",
+      "source_slide_number": 93,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideSectionLabel}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S94",
+      "source_slide_number": 94,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideSectionLabel}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S95",
+      "source_slide_number": 95,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideSectionLabel}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S96",
+      "source_slide_number": 96,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideSectionLabel}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S97",
+      "source_slide_number": 97,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideSectionLabel}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S98",
+      "source_slide_number": 98,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": "",
+        "{SlideSupportingImage7}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}",
+        "{SlideSupportingImage7}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S99",
+      "source_slide_number": 99,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": "",
+        "{SlideSupportingImage7}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}",
+        "{SlideSupportingImage7}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S100",
+      "source_slide_number": 100,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": "",
+        "{SlideSupportingImage7}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}",
+        "{SlideSupportingImage7}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S101",
+      "source_slide_number": 101,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": "",
+        "{SlideSupportingImage7}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}",
+        "{SlideSupportingImage7}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S102",
+      "source_slide_number": 102,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": "",
+        "{SlideSupportingImage7}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}",
+        "{SlideSupportingImage7}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S103",
+      "source_slide_number": 103,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": "",
+        "{SlideSupportingImage7}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}",
+        "{SlideSupportingImage7}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S104",
+      "source_slide_number": 104,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": "",
+        "{SlideSupportingImage7}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}",
+        "{SlideSupportingImage7}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S105",
+      "source_slide_number": 105,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": "",
+        "{SlideSupportingImage7}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}",
+        "{SlideSupportingImage7}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S106",
+      "source_slide_number": 106,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": "",
+        "{SlideSupportingImage7}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}",
+        "{SlideSupportingImage7}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S107",
+      "source_slide_number": 107,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": "",
+        "{SlideSupportingImage7}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}",
+        "{SlideSupportingImage7}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S108",
+      "source_slide_number": 108,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": "",
+        "{SlideSupportingImage7}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}",
+        "{SlideSupportingImage7}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S109",
+      "source_slide_number": 109,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": "",
+        "{SlideSupportingImage7}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}",
+        "{SlideSupportingImage7}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S110",
+      "source_slide_number": 110,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": "",
+        "{SlideSupportingImage7}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}",
+        "{SlideSupportingImage7}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S111",
+      "source_slide_number": 111,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": "",
+        "{SlideSupportingImage7}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}",
+        "{SlideSupportingImage7}"
+      ]
+    },
+    {
+      "template_id": "25_Diagrams_Diagrams_with_Image_Placeholders_Dark-S112",
+      "source_slide_number": 112,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": "",
+        "{SlideSupportingImage6}": "",
+        "{SlideSupportingImage7}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}",
+        "{SlideSupportingImage6}",
+        "{SlideSupportingImage7}"
+      ]
+    }
+  ]
+}

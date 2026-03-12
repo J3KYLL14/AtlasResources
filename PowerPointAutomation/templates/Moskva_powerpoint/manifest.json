@@ -1,0 +1,1037 @@
+{
+  "deck_name": "Moskva-powerpoint",
+  "source_pptx": "/Users/ben/Documents/Code/PowerPointAgent/ppt_pipeline_runner/input_four/Moskva-powerpoint.pptx",
+  "slide_count": 36,
+  "slide_size_emu": {
+    "cx": 12192000,
+    "cy": 6858000
+  },
+  "screenshot_status": "skipped",
+  "template_pptx": "/Users/ben/Documents/Code/PowerPointAgent/ppt_pipeline_runner/output_four/decks/Moskva_powerpoint/template_deck.pptx",
+  "slides": [
+    {
+      "template_id": "Moskva_powerpoint-S01",
+      "slide_number": 1,
+      "title": "MOSKVA",
+      "category": "Big Idea / Concept",
+      "purpose": "Introduce a central concept with concise framing.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideImage}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-01.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S02",
+      "slide_number": 2,
+      "title": "It’s Not About Brand, It’s About Style",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideStatistic}",
+        "{SlideImage}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideStatistic}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-02.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S03",
+      "slide_number": 3,
+      "title": "Style is a reflection of your attitude & your personality",
+      "category": "Reflection / Discussion",
+      "purpose": "Prompt reflection, response, or discussion.",
+      "placeholders": [
+        "{SlideStatistic}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideImage}"
+      ],
+      "required_placeholders": [
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideStatistic}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-03.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S04",
+      "slide_number": 4,
+      "title": "Build a lifestyle around your brand, and the audience will follow",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideStatistic}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideStatistic}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-04.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S05",
+      "slide_number": 5,
+      "title": "Write your awesome title here",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideStatistic}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ],
+      "required_placeholders": [
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideStatistic}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-05.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S06",
+      "slide_number": 6,
+      "title": "When you love fashion, there is no weekend. Everything just blends together",
+      "category": "Big Idea / Concept",
+      "purpose": "Introduce a central concept with concise framing.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideImage}",
+        "{SlideSupportingImage}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideSupportingImage}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-06.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S07",
+      "slide_number": 7,
+      "title": "Every great brand is like a great story",
+      "category": "Big Idea / Concept",
+      "purpose": "Introduce a central concept with concise framing.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideImage}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-07.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S08",
+      "slide_number": 8,
+      "title": "MEET OUR TEAM",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideStatistic}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSectionLabel}",
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ],
+      "required_placeholders": [
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideStatistic}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSectionLabel}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-08.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S09",
+      "slide_number": 9,
+      "title": "Famella Samantha",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideStatistic}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ],
+      "required_placeholders": [
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideStatistic}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-09.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S10",
+      "slide_number": 10,
+      "title": "VEDERICO SEBASTIANO",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideStatistic}",
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideImage}",
+        "{SlideSupportingImage}"
+      ],
+      "required_placeholders": [
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideStatistic}",
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingImage}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-10.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S11",
+      "slide_number": 11,
+      "title": "OUR SERVICES",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideStatistic}"
+      ],
+      "required_placeholders": [
+        "{SlideSectionLabel}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideStatistic}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-11.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S12",
+      "slide_number": 12,
+      "title": "CLOTHING",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideSectionLabel}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideSectionLabel}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-12.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S13",
+      "slide_number": 13,
+      "title": "CUSTOM CLOTHIING",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-13.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S14",
+      "slide_number": 14,
+      "title": "SERVICES",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideStatistic}",
+        "{SlideImage}"
+      ],
+      "required_placeholders": [
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideStatistic}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-14.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S15",
+      "slide_number": 15,
+      "title": "OUR PORTFOLIO",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideStatistic}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "required_placeholders": [
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideStatistic}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-15.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S16",
+      "slide_number": 16,
+      "title": "Having different types of stocks in your portfolio can enhance returns",
+      "category": "Big Idea / Concept",
+      "purpose": "Introduce a central concept with concise framing.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-16.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S17",
+      "slide_number": 17,
+      "title": "OUR PORTFOLIO",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideImage}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}"
+      ],
+      "required_placeholders": [
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-17.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S18",
+      "slide_number": 18,
+      "title": "MAKE UP ARTIST",
+      "category": "Callout / Highlight",
+      "purpose": "Focus attention on selected references with annotations.",
+      "placeholders": [
+        "{SlideImage}",
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideStatistic}",
+        "{SlideSupportingImage}"
+      ],
+      "required_placeholders": [
+        "{SlideImage}",
+        "{SlideMainExplanation}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideStatistic}",
+        "{SlideSupportingImage}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-18.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S19",
+      "slide_number": 19,
+      "title": "Having different types of stocks in your portfolio can enhance returns",
+      "category": "Callout / Highlight",
+      "purpose": "Focus attention on selected references with annotations.",
+      "placeholders": [
+        "{SlideImage}",
+        "{SlideMainExplanation}",
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideStatistic}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ],
+      "required_placeholders": [
+        "{SlideImage}",
+        "{SlideMainExplanation}"
+      ],
+      "optional_placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideStatistic}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-19.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S20",
+      "slide_number": 20,
+      "title": "Fashion is the armor to survive the reality of everyday life",
+      "category": "Callout / Highlight",
+      "purpose": "Focus attention on selected references with annotations.",
+      "placeholders": [
+        "{SlideImage}",
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideStatistic}",
+        "{SlideSectionLabel}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ],
+      "required_placeholders": [
+        "{SlideImage}",
+        "{SlideMainExplanation}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideStatistic}",
+        "{SlideSectionLabel}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-20.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S21",
+      "slide_number": 21,
+      "title": "FASHION DESIGN",
+      "category": "Callout / Highlight",
+      "purpose": "Focus attention on selected references with annotations.",
+      "placeholders": [
+        "{SlideImage}",
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingImage}"
+      ],
+      "required_placeholders": [
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingImage}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-21.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S22",
+      "slide_number": 22,
+      "title": "$ 169",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideStatistic}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideFooterNote}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSectionLabel}"
+      ],
+      "required_placeholders": [
+        "{SlideStatistic}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideFooterNote}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSectionLabel}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-22.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S23",
+      "slide_number": 23,
+      "title": "PRICING TABLES",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideStatistic}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSectionLabel}"
+      ],
+      "required_placeholders": [
+        "{SlideStatistic}"
+      ],
+      "optional_placeholders": [
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSectionLabel}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-23.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S24",
+      "slide_number": 24,
+      "title": "OUR CHART",
+      "category": "Data / Infographic",
+      "purpose": "Present structured evidence, tables, or quantified comparisons.",
+      "placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideStatistic}"
+      ],
+      "required_placeholders": [
+        "{SlideSectionLabel}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideStatistic}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-24.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S25",
+      "slide_number": 25,
+      "title": "OUR CHART",
+      "category": "Data / Infographic",
+      "purpose": "Present structured evidence, tables, or quantified comparisons.",
+      "placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideStatistic}"
+      ],
+      "required_placeholders": [
+        "{SlideSectionLabel}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideStatistic}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-25.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S26",
+      "slide_number": 26,
+      "title": "CLOTHING PRODUCTION",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideStatistic}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}"
+      ],
+      "optional_placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideStatistic}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-26.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S27",
+      "slide_number": 27,
+      "title": "MANUFACTURING",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideStatistic}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}"
+      ],
+      "required_placeholders": [
+        "{SlideStatistic}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-27.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S28",
+      "slide_number": 28,
+      "title": "Simply enjoy life and the great pleasures that come with it",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideStatistic}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}"
+      ],
+      "required_placeholders": [
+        "{SlideStatistic}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-28.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S29",
+      "slide_number": 29,
+      "title": "GET IN TOUCH",
+      "category": "Section Divider",
+      "purpose": "Separate content blocks and reset attention before a new concept.",
+      "placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideStatistic}",
+        "{SlideReference}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideImage}"
+      ],
+      "required_placeholders": [
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideStatistic}",
+        "{SlideReference}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-29.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S30",
+      "slide_number": 30,
+      "title": "THANK YOU",
+      "category": "Explainer",
+      "purpose": "Deliver instructional detail in text-led structure.",
+      "placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideImage}"
+      ],
+      "required_placeholders": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional_placeholders": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}"
+      ],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-30.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S31",
+      "slide_number": 31,
+      "title": "(No explicit text title)",
+      "category": "Big Idea / Concept",
+      "purpose": "Introduce a central concept with concise framing.",
+      "placeholders": [],
+      "required_placeholders": [],
+      "optional_placeholders": [],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-31.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S32",
+      "slide_number": 32,
+      "title": "(No explicit text title)",
+      "category": "Big Idea / Concept",
+      "purpose": "Introduce a central concept with concise framing.",
+      "placeholders": [],
+      "required_placeholders": [],
+      "optional_placeholders": [],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-32.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S33",
+      "slide_number": 33,
+      "title": "(No explicit text title)",
+      "category": "Big Idea / Concept",
+      "purpose": "Introduce a central concept with concise framing.",
+      "placeholders": [],
+      "required_placeholders": [],
+      "optional_placeholders": [],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-33.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S34",
+      "slide_number": 34,
+      "title": "(No explicit text title)",
+      "category": "Big Idea / Concept",
+      "purpose": "Introduce a central concept with concise framing.",
+      "placeholders": [],
+      "required_placeholders": [],
+      "optional_placeholders": [],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-34.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S35",
+      "slide_number": 35,
+      "title": "(No explicit text title)",
+      "category": "Big Idea / Concept",
+      "purpose": "Introduce a central concept with concise framing.",
+      "placeholders": [],
+      "required_placeholders": [],
+      "optional_placeholders": [],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-35.png"
+    },
+    {
+      "template_id": "Moskva_powerpoint-S36",
+      "slide_number": 36,
+      "title": "(No explicit text title)",
+      "category": "Big Idea / Concept",
+      "purpose": "Introduce a central concept with concise framing.",
+      "placeholders": [],
+      "required_placeholders": [],
+      "optional_placeholders": [],
+      "visual_title_detected": false,
+      "screenshot": "screenshots/slide-36.png"
+    }
+  ]
+}

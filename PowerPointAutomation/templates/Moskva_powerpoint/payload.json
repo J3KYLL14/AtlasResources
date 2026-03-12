@@ -1,0 +1,851 @@
+{
+  "deck_name": "Moskva-powerpoint",
+  "source_pptx": "/Users/ben/Documents/Code/PowerPointAgent/ppt_pipeline_runner/input_four/Moskva-powerpoint.pptx",
+  "template_pptx": "/Users/ben/Documents/Code/PowerPointAgent/ppt_pipeline_runner/output_four/decks/Moskva_powerpoint/template_deck.pptx",
+  "slides": [
+    {
+      "template_id": "Moskva_powerpoint-S01",
+      "source_slide_number": 1,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideImage}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S02",
+      "source_slide_number": 2,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideStatistic}": "",
+        "{SlideImage}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideStatistic}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S03",
+      "source_slide_number": 3,
+      "values": {
+        "{SlideStatistic}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideImage}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideStatistic}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S04",
+      "source_slide_number": 4,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideStatistic}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideStatistic}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S05",
+      "source_slide_number": 5,
+      "values": {
+        "{SlideStatistic}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideStatistic}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S06",
+      "source_slide_number": 6,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideSupportingImage}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S07",
+      "source_slide_number": 7,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideImage}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S08",
+      "source_slide_number": 8,
+      "values": {
+        "{SlideStatistic}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideStatistic}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSectionLabel}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S09",
+      "source_slide_number": 9,
+      "values": {
+        "{SlideStatistic}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideStatistic}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S10",
+      "source_slide_number": 10,
+      "values": {
+        "{SlideStatistic}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideStatistic}",
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingImage}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S11",
+      "source_slide_number": 11,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideStatistic}": ""
+      },
+      "required": [
+        "{SlideSectionLabel}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideStatistic}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S12",
+      "source_slide_number": 12,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideSectionLabel}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S13",
+      "source_slide_number": 13,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S14",
+      "source_slide_number": 14,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideStatistic}": "",
+        "{SlideImage}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideStatistic}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S15",
+      "source_slide_number": 15,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideStatistic}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideStatistic}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S16",
+      "source_slide_number": 16,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S17",
+      "source_slide_number": 17,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideImage}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": "",
+        "{SlideSupportingImage5}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}",
+        "{SlideSupportingImage5}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S18",
+      "source_slide_number": 18,
+      "values": {
+        "{SlideImage}": "",
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideStatistic}": "",
+        "{SlideSupportingImage}": ""
+      },
+      "required": [
+        "{SlideImage}",
+        "{SlideMainExplanation}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideStatistic}",
+        "{SlideSupportingImage}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S19",
+      "source_slide_number": 19,
+      "values": {
+        "{SlideImage}": "",
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideStatistic}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": ""
+      },
+      "required": [
+        "{SlideImage}",
+        "{SlideMainExplanation}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideStatistic}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S20",
+      "source_slide_number": 20,
+      "values": {
+        "{SlideImage}": "",
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideStatistic}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideSupportingImage}": "",
+        "{SlideSupportingImage2}": "",
+        "{SlideSupportingImage3}": "",
+        "{SlideSupportingImage4}": ""
+      },
+      "required": [
+        "{SlideImage}",
+        "{SlideMainExplanation}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideStatistic}",
+        "{SlideSectionLabel}",
+        "{SlideSupportingImage}",
+        "{SlideSupportingImage2}",
+        "{SlideSupportingImage3}",
+        "{SlideSupportingImage4}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S21",
+      "source_slide_number": 21,
+      "values": {
+        "{SlideImage}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingImage}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingImage}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S22",
+      "source_slide_number": 22,
+      "values": {
+        "{SlideStatistic}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideFooterNote}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideSectionLabel}": ""
+      },
+      "required": [
+        "{SlideStatistic}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideFooterNote}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSectionLabel}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S23",
+      "source_slide_number": 23,
+      "values": {
+        "{SlideStatistic}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideSectionLabel}": ""
+      },
+      "required": [
+        "{SlideStatistic}"
+      ],
+      "optional": [
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideSectionLabel}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S24",
+      "source_slide_number": 24,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": "",
+        "{SlideStatistic}": ""
+      },
+      "required": [
+        "{SlideSectionLabel}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}",
+        "{SlideStatistic}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S25",
+      "source_slide_number": 25,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideStatistic}": ""
+      },
+      "required": [
+        "{SlideSectionLabel}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideStatistic}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S26",
+      "source_slide_number": 26,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideStatistic}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideStatistic}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S27",
+      "source_slide_number": 27,
+      "values": {
+        "{SlideStatistic}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSectionLabel}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": ""
+      },
+      "required": [
+        "{SlideStatistic}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S28",
+      "source_slide_number": 28,
+      "values": {
+        "{SlideStatistic}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideSupportingContent5}": ""
+      },
+      "required": [
+        "{SlideStatistic}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}",
+        "{SlideSupportingContent5}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S29",
+      "source_slide_number": 29,
+      "values": {
+        "{SlideSectionLabel}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideCaption}": "",
+        "{SlideStatistic}": "",
+        "{SlideReference}": "",
+        "{SlideSupportingContent2}": "",
+        "{SlideSupportingContent3}": "",
+        "{SlideSupportingContent4}": "",
+        "{SlideImage}": ""
+      },
+      "required": [
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSectionLabel}",
+        "{SlideSupportingContent}",
+        "{SlideCallout}",
+        "{SlideCaption}",
+        "{SlideStatistic}",
+        "{SlideReference}",
+        "{SlideSupportingContent2}",
+        "{SlideSupportingContent3}",
+        "{SlideSupportingContent4}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S30",
+      "source_slide_number": 30,
+      "values": {
+        "{SlideMainExplanation}": "",
+        "{SlideSupportingContent}": "",
+        "{SlideCallout}": "",
+        "{SlideImage}": ""
+      },
+      "required": [
+        "{SlideMainExplanation}",
+        "{SlideImage}"
+      ],
+      "optional": [
+        "{SlideSupportingContent}",
+        "{SlideCallout}"
+      ]
+    },
+    {
+      "template_id": "Moskva_powerpoint-S31",
+      "source_slide_number": 31,
+      "values": {},
+      "required": [],
+      "optional": []
+    },
+    {
+      "template_id": "Moskva_powerpoint-S32",
+      "source_slide_number": 32,
+      "values": {},
+      "required": [],
+      "optional": []
+    },
+    {
+      "template_id": "Moskva_powerpoint-S33",
+      "source_slide_number": 33,
+      "values": {},
+      "required": [],
+      "optional": []
+    },
+    {
+      "template_id": "Moskva_powerpoint-S34",
+      "source_slide_number": 34,
+      "values": {},
+      "required": [],
+      "optional": []
+    },
+    {
+      "template_id": "Moskva_powerpoint-S35",
+      "source_slide_number": 35,
+      "values": {},
+      "required": [],
+      "optional": []
+    },
+    {
+      "template_id": "Moskva_powerpoint-S36",
+      "source_slide_number": 36,
+      "values": {},
+      "required": [],
+      "optional": []
+    }
+  ]
+}
